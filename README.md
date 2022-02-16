@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mustafaakdemir
-- 👀 I’m interested in software
-- 🌱 I’m currently learning html+css
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web devoloing
+- 🌱 I’m currently learning html+css+javascript
+- 💞️ I’m looking to collaborate devolopers on guide me to improve myself to became a devoloper. Thanks for the help :)
 - 📫 How to reach me muakdemir@gmail.com / instagram.com/mustafaakdemiir
 
 <!---
